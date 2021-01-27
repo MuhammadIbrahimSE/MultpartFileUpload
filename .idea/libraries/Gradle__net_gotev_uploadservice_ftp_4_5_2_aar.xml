@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: net.gotev:uploadservice-ftp:4.5.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6ba5b737eb5f6b5f1d7c73279b09116b/jetified-uploadservice-ftp-4.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/06b0574561846294aa5ec3176e4240d0/jetified-uploadservice-ftp-4.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e1e9e2c7a0ac1459eaf85f3a63659a2/jetified-uploadservice-ftp-4.5.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e1e9e2c7a0ac1459eaf85f3a63659a2/jetified-uploadservice-ftp-4.5.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5e1e9e2c7a0ac1459eaf85f3a63659a2/jetified-uploadservice-ftp-4.5.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice-ftp/4.5.2/420d1f55feb3e28e0fc391699834bc76ec4ec762/uploadservice-ftp-4.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice-ftp/4.5.2/b038c2f40f09f7d229c5991aa0ba443b71649b32/uploadservice-ftp-4.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

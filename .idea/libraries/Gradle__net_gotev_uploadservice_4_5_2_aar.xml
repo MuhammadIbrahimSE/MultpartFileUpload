@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: net.gotev:uploadservice:4.5.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f83a37df5988c2a344f2f0000de59dde/jetified-uploadservice-4.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8374f4d8343dfa1de740f328de9d28dc/jetified-uploadservice-4.5.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d36dae407f2dba3cba113d1e0fbbda30/jetified-uploadservice-4.5.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d36dae407f2dba3cba113d1e0fbbda30/jetified-uploadservice-4.5.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d36dae407f2dba3cba113d1e0fbbda30/jetified-uploadservice-4.5.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice/4.5.2/88629b821b8faf4594adaba6c87b12f7cda4c78e/uploadservice-4.5.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.gotev/uploadservice/4.5.2/6843f13a5c8098fd0c423c885e6c2fa1238fbfd6/uploadservice-4.5.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

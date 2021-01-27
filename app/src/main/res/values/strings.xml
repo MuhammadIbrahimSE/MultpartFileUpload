@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleMultipartUpload</string>
+    <string name="upload_cancelled">Upload cancelled</string>
+    <string name="upload_error">Unable to upload</string>
+    <string name="uploading">Uploaded [[UPLOADED_FILES]] of [[TOTAL_FILES]] at [[UPLOAD_RATE]] - [[PROGRESS]]</string>
+    <string name="upload_success">Upload completed successfully in [[ELAPSED_TIME]]</string>
+    <string name="cancel_upload">Cancel</string>
+
+    <string name="multipart_upload">Multipart Upload</string>
+</resources>
